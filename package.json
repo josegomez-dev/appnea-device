@@ -1,0 +1,18 @@
+{
+  "name": "dk",
+  "version": "1.0.0",
+  "description": "Mqtt DK Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdrianMSS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "3.x",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "mqtt": "^2.18.2"
+  }
+}
